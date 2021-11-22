@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}&left_color=red&right_color=green&left_text=HelloVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors)
 
 <!--
 **LSiccha/LSiccha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
