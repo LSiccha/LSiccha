@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors">
 
 [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/profiles/76561198055887895/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white&style=for-the-badge)](https://steamcommunity.com/profiles/76561198055887895/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
 
 
 <p align="center" >
