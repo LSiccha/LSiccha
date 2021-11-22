@@ -5,7 +5,6 @@
 <p align="center">
   [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
-</p>
 
 
 <p align="center" >
