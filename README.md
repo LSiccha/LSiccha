@@ -1,7 +1,8 @@
 ### Hi there 👋
-<p>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors">
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors)
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha)](https://github.com/anuraghazra/github-readme-stats)
 
