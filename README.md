@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 <!--
 **LSiccha/LSiccha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
