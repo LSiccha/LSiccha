@@ -2,7 +2,7 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors">
 
-[![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=Steam&logoColor=white&logoWidth=50)](https://steamcommunity.com/profiles/76561198055887895/)
+[![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=Steam&logoColor=white&logoWidth=70)](https://steamcommunity.com/profiles/76561198055887895/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
 
 
