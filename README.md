@@ -1,5 +1,6 @@
 ### Hola 👋
 
+- Me puedes encontrar en:
   [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
   [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
