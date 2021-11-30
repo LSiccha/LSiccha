@@ -6,6 +6,9 @@
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
   [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
   
+## 💻 Actualmente me encuentro
+
+- 🔭 Cursando la carrera de Ingeniería de Computación y Sistemas en UPAO
 
 
 <p align="center" >
