@@ -1,16 +1,14 @@
-## Hola 👋 <img src="https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors">
+## <samp>&gt; Hi, I'm <a href="https://github.com/LSiccha">Luis Siccha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <img src="https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors"></samp>
 
-
-- Me puedes encontrar en:
 <!--- 
   [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
 -->
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/LSiccha)
   [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/915027947625263155/)
   
-## 💻 Actualmente:
+## 💻 I'm currently:
 
-- 🔭 Cursando la carrera de Ingeniería de Computación y Sistemas en UPAO
+- 🔭 In the 4th year of Computer and Systems Engineering.
 
 
 <p align="center" >
