@@ -1,4 +1,9 @@
-## <samp>&gt; Hi, I'm <a href="https://github.com/LSiccha">Luis Siccha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <img src="https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors"></samp>
+
+
+
+
+
+## <p align="center"><samp>&gt; Hi, I'm <a href="https://github.com/LSiccha">Luis Siccha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <img src="https://visitor-badge.glitch.me/badge?page_id=LSiccha.LSiccha&left_color=red&right_color=green&left_text=HelloVisitors"></samp></p>
 
 <!--- 
   [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198055887895/)
