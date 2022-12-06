@@ -25,6 +25,8 @@
     <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />  
 </div>
 
+</br>
+
 - 🔭 I'm currently in the 4th year of **Computer and Systems Engineering**
 - 🌱 I’m currently learning about **AWS - Cloud Infraestructure**
 - 👯 I’m looking to collaborate on open source/commercial projects
