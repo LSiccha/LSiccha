@@ -19,13 +19,19 @@
 
 ---
 
+<div align="center">
+    <p><em>Random Dev Joke For Ya</br>
+    </em></p>
+    <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />  
+</div>
+
 - 🔭 I'm currently in the 4th year of **Computer and Systems Engineering**
 - 🌱 I’m currently learning about **AWS - Cloud Infraestructure**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" /> -->
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
   
