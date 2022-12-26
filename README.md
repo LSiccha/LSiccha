@@ -39,6 +39,8 @@
   
   [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
   
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=LSiccha&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
