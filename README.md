@@ -11,7 +11,7 @@
 <p><em>Systems Engineering student at <a href="https://upao.edu.pe">UPAO</a></br>
 </em></p>
 
-> I'm a Web Developer and sometimes UI Designer, who seeks to create high-quality websites and applications. I'm a fourth year college student, currently learning about infraestructure and CI/CD. 
+> I'm a Web Developer and sometimes UI Designer, who seeks to create high-quality websites and applications. I'm a fourth year college student, currently learning about cloud infraestructure (IaaS) and CI/CD. 
   
   
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/LSiccha)
