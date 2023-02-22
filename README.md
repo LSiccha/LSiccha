@@ -8,6 +8,9 @@
 
 <p align="center"></p>
 
+#### 📫 [How to reach me:](https://linktr.ee/luis.siccha)
+
+
 <p><em>Systems Engineering student at <a href="https://upao.edu.pe">UPAO</a></br>
 </em></p>
 
@@ -27,9 +30,12 @@
 
 </br>
 
-- 🔭 I'm currently in the 4th year of **Computer and Systems Engineering**
+- 🔭 I'm in the 5th year of **Computer and Systems Engineering**
 - 🌱 I’m currently learning about **AWS - Cloud Infraestructure**
+<!--
 - 👯 I’m looking to collaborate on open source/commercial projects
+-->
+- 
 - 💬 Ask me about **Web Development**
 
 
