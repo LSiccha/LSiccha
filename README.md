@@ -8,7 +8,7 @@
 
 <p align="center"></p>
 
-#### 📫 [How to reach me:](https://linktr.ee/luis.siccha)
+#### 📫 [Linktree:](https://linktr.ee/luis.siccha)
 
 
 <p><em>Systems Engineering student at <a href="https://upao.edu.pe">UPAO</a></br>
