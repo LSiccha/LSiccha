@@ -34,8 +34,9 @@
 - 🌱 I’m currently learning about **AWS - Cloud Infraestructure**
 <!--
 - 👯 I’m looking to collaborate on open source/commercial projects
+- ⚡
 -->
-- 
+
 - 💬 Ask me about **Web Development**
 
 
