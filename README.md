@@ -30,8 +30,8 @@
 
 </br>
 
-- 🔭 I'm in the 5th year of **Computer and Systems Engineering**
-- 🌱 I’m currently learning about **AWS - Cloud Infraestructure**
+- 🔭 I have a bachelor's degree in **Computer and Systems Engineering**
+- 🌱 I’m currently learning about **Cloud Computing - Infraestructure as Code**
 <!--
 - 👯 I’m looking to collaborate on open source/commercial projects
 - ⚡
