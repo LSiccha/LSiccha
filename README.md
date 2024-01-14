@@ -32,12 +32,11 @@
 
 - 🔭 I have a bachelor's degree in **Computer and Systems Engineering**
 - 🌱 I’m currently learning about **Cloud Computing - Infraestructure as Code**
+- 💬 Ask me about **Web Development**
 <!--
 - 👯 I’m looking to collaborate on open source/commercial projects
 - ⚡
 -->
-- 💬 Ask me about **Web Development**
-
 
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" /> -->
   
