@@ -11,7 +11,7 @@
 #### 📫 [Linktree](https://linktr.ee/luis.siccha)
 
 
-<p><em>Systems Engineering student at <a href="https://upao.edu.pe">UPAO</a></br>
+<p><em>Software Developer</a></br>
 </em></p>
 
 > Web Developer and sometimes UI Designer, who seeks to create high-quality websites and applications. I'm a fifth year college student, currently learning about cloud infraestructure (IaaS) and CI/CD. 
