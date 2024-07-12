@@ -8,9 +8,9 @@
 
 <p align="center"></p>
 
-I'm a full stack developer with over 2 years of experience in building web applications, with a strong affinity for cloud computing. I love designing and building solutions, and I’m currently developing applications using .NET, Angular, and AWS. 
+I'm a **full stack developer** with over **2 years** of experience in building web applications, with a strong affinity for **cloud computing**. I love designing and building solutions, and I’m currently developing applications using **.NET**, **Angular**, and **AWS**. 
 
-I seek challenges in every aspect of the software development lifecycle, not just in coding, but also in design, architecture, testing, deployment, and continuous integration.
+I seek challenges in every aspect of the **software development lifecycle**, not just in coding, but also in **design, architecture, testing, deployment, and continuous integration**.
 
 #### 📫 [Linktree](https://linktr.ee/luis.siccha)
   
@@ -39,6 +39,5 @@ I seek challenges in every aspect of the software development lifecycle, not jus
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 </br>
