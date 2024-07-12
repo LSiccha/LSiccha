@@ -19,11 +19,11 @@ I'm a full stack developer with over 2 years of experience in building web appli
 
 ### My Stats ;)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=shadow_red" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&size_weight=0.5&count_weight=0.5&theme=cobalt)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&size_weight=0.5&count_weight=0.5&theme=shadow_red)
   
-  [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_red)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </br>
   
