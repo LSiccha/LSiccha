@@ -6,6 +6,8 @@
 
 ## <p align="left"><samp>&gt; Hi, I'm <a href="https://github.com/LSiccha">Luis Siccha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp></p>
 
+![Header](./header.png)
+
 <p align="center"></p>
 
 I'm a full stack developer with over 2 years of experience in building web applications, with a strong affinity for cloud computing. I love designing and building solutions, and I’m currently developing applications using .NET, Angular, and AWS. 
