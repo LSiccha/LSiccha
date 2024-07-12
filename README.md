@@ -17,21 +17,25 @@ I'm a full stack developer with over 2 years of experience in building web appli
 
 ---
 
-<div align="start">
-    <p><em>Random Dev Joke For Ya</br>
-    </em></p>
-    <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />  
-</div>
+### My Stats ;)
 
-</br>
-
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" /> -->
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&size_weight=0.5&count_weight=0.5&theme=cobalt)
   
   [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</br>
+
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" /> -->
+  
+
+
+  <div align="start">
+    <p><em>Random Dev Joke For Ya</br>
+    </em></p>
+    <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />  
+</div>
   
   ![Trophies](https://github-profile-trophy.vercel.app/?username=LSiccha&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
