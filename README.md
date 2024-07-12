@@ -29,6 +29,8 @@ I'm a full stack developer with over 2 years of experience in building web appli
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+  
   [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
   
   ![Trophies](https://github-profile-trophy.vercel.app/?username=LSiccha&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
