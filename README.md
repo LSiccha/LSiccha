@@ -1,5 +1,3 @@
-
-
 <!--
 <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 -->
@@ -16,35 +14,31 @@ I seek challenges in every aspect of the software development lifecycle, not jus
 
 #### 📫 [Linktree](https://linktr.ee/luis.siccha)
   
-  [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/LSiccha)
-  [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/915027947625263155/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/LSiccha)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/915027947625263155/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luis-siccha-96454a1bb/)
 
 ---
 
-### My Stats ;)
+### My Stats 😉
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=catppuccin_mocha" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=catppuccin_mocha" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha&hide_border=true)
 
+### My GitHub Trophies 🏆
+![Trophies](https://github-profile-trophy.vercel.app/?username=LSiccha&locale=en&row=1&theme=gruvbox&margin-w=15&no-frame=true)
 
-### My GitHub Trophies
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=LSiccha&locale=en&row=1&theme=gruvbox&margin-w=15&no-frame=true)
+---
 
-  
+### Fun Corner 🎉
 
-
-</br>
-  
-
-
-  <div align="start">
-    <p><em>Random Dev Joke For Ya</br>
-    </em></p>
+<div align="start">
+    <p><em>Random Dev Joke For Ya</em></p>
     <img src="https://readme-jokes.vercel.app/api?theme=catppuccin_mocha" alt="Jokes Card" />  
 </div>
 
-  [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
-  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
+</br>
