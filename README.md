@@ -10,33 +10,20 @@
 
 #### 📫 [Linktree](https://linktr.ee/luis.siccha)
 
-
-<p><em>Software Developer</a></br>
-</em></p>
-
-> Web Developer and sometimes UI Designer, who seeks to create high-quality websites and applications. I'm a fifth year college student, currently learning about cloud infraestructure (IaaS) and CI/CD. 
-  
+I'm a full stack developer with over 2 years of experience in building web applications, with a strong affinity for cloud computing. I love designing and building solutions, and I’m currently developing applications using .NET, Angular, and AWS. I seek challenges in every aspect of the software development lifecycle, not just in coding, but also in design, architecture, testing, deployment, and continuous integration.
   
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/LSiccha)
   [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/915027947625263155/)
 
 ---
 
-<div align="center">
+<div align="start">
     <p><em>Random Dev Joke For Ya</br>
     </em></p>
     <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />  
 </div>
 
 </br>
-
-- 🔭 I have a bachelor's degree in **Computer and Systems Engineering**
-- 🌱 I’m currently learning about **Cloud Computing - Infraestructure as Code**
-- 💬 Ask me about **Web Development**
-<!--
-- 👯 I’m looking to collaborate on open source/commercial projects
-- ⚡
--->
 
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" /> -->
   
