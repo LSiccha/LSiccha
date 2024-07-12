@@ -26,7 +26,7 @@ I seek challenges in every aspect of the software development lifecycle, not jus
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha&hide_border=true)
 
 
-## My GitHubTrophies
+### My GitHub Trophies
   ![Trophies](https://github-profile-trophy.vercel.app/?username=LSiccha&locale=en&row=1&theme=gruvbox&margin-w=15&no-frame=true)
 
   
