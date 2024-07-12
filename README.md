@@ -23,7 +23,9 @@ I'm a full stack developer with over 2 years of experience in building web appli
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha&hide_border=true)
 
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=LSiccha&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+
+## My GitHubTrophies
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=LSiccha&locale=en&row=1&theme=gruvbox&margin-w=15&no-frame=true)
 
   
 
@@ -35,7 +37,7 @@ I'm a full stack developer with over 2 years of experience in building web appli
   <div align="start">
     <p><em>Random Dev Joke For Ya</br>
     </em></p>
-    <img src="https://readme-jokes.vercel.app/api?theme=cobalt" alt="Jokes Card" />  
+    <img src="https://readme-jokes.vercel.app/api?theme=catppuccin_mocha" alt="Jokes Card" />  
 </div>
 
   [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
