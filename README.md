@@ -8,9 +8,9 @@
 
 <p align="center"></p>
 
-#### 📫 [Linktree](https://linktr.ee/luis.siccha)
-
 I'm a full stack developer with over 2 years of experience in building web applications, with a strong affinity for cloud computing. I love designing and building solutions, and I’m currently developing applications using .NET, Angular, and AWS. I seek challenges in every aspect of the software development lifecycle, not just in coding, but also in design, architecture, testing, deployment, and continuous integration.
+
+#### 📫 [Linktree](https://linktr.ee/luis.siccha)
   
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/LSiccha)
   [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/915027947625263155/)
@@ -27,9 +27,9 @@ I'm a full stack developer with over 2 years of experience in building web appli
 
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" /> -->
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSiccha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSiccha&size_weight=0.5&count_weight=0.5&theme=cobalt)
   
   [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
   
