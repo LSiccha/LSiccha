@@ -8,7 +8,7 @@
 
 <p align="center"></p>
 
-I'm a **full stack developer** with over **2 years** of experience in building web applications, with a strong affinity for **cloud computing**. I love designing and building solutions, and I’m currently developing applications using **.NET**, **Angular**, and **AWS**. 
+I'm a **full stack developer** with over **3 years** of experience in building web applications, with a strong affinity for **cloud computing**. I love designing and building solutions, and I’m currently developing applications using **.NET**, **Angular**, and **AWS**. 
 
 I seek challenges in every aspect of the **software development lifecycle**, not just in coding, but also in **design, architecture, testing, deployment, and continuous integration**.
 
