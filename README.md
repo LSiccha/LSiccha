@@ -15,9 +15,11 @@ I'm Luis, from Peru. I've built systems from the ground up — backends, fronten
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
+<!--
 ### Lately
 
 Deepening into AI and security best practices. Preparing for **Kubestronaut** and **AZ-500**.
+-->
 
 [![Website](https://img.shields.io/badge/-luissiccha.com-000?style=flat&logo=safari&logoColor=white)](https://luissiccha.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luis-siccha-96454a1bb/)
